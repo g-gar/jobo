@@ -4,6 +4,8 @@ Job finder using indeed.com and infojobs.com APIs
 ## Installation
 [Node.js](https://nodejs.org/en/) is required to build this project. To install all the requirements just type:
 ```
+git clone https://github.com/g-gar/jobo.git
+cd jobo
 npm install
 ```
 To get a prebuilt binary just go to the [Releases](https://github.com/g-gar/jobo/releases) section
