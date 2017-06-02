@@ -2,6 +2,7 @@
 Job finder using indeed.com and infojobs.com APIs
 
 ## Installation
+[Node.js](https://nodejs.org/en/) is required to build this project. To install all the requirements just type:
 ```
 npm install
 ```
