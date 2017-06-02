@@ -6,7 +6,7 @@ Job finder using indeed.com and infojobs.com APIs
 ```
 npm install
 ```
-To get a prebuilt binary just go to the [Releases](/g-gar/jobo/releases) section
+To get a prebuilt binary just go to the [Releases](https://github.com/g-gar/jobo/releases) section
 ## Running
 ```
 npm run start
