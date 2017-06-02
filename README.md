@@ -12,7 +12,7 @@ To get a prebuilt binary just go to the [Releases](https://github.com/g-gar/jobo
 npm run start
 ```
 
-## Packaging
+## Building
 Possible options are in the `scripts` section in [package.json](https://github.com/g-gar/jobo/blob/master/package.json)
 ```
 npm run package:[win|lin|mac]
