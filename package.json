@@ -1,0 +1,16 @@
+{
+  "name": "jobo",
+  "description": "Finds job using infojobs.com and indeed.com APIs",
+  "version": "3.0.0",
+  "main": "main.js",
+  "devDependencies": {
+    "electron": ">= 1.6.10",
+    "electron-packager": ">= 8.7.0"
+  },
+  "scripts": {
+    "start": "electron .",
+    "package:win": "electron-packager . --overwrite --platform=win32 --arch=x64 --out=../releases --icon=assets/app-icon/win/app.ico",
+    "package:lin": "electron-packager . --overwrite --platform=linux --arch=x64 --out=../releases --icon=assets/app-icon/win/app.ico",
+    "package:mac": "electron-packager . --overwrite --platform=darwin --arch=x64 --out=../releases --icon=assets/app-icon/win/app.ico"
+  }
+}
